@@ -1,7 +1,9 @@
 # 📚 QUIZ LAB STRUKTUR DATA
 
 Nama : Bunga Lestari
+
 NIM  : 251401023
+
 Lab  : 3 
 
 ---
