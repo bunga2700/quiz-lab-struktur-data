@@ -84,5 +84,5 @@ quiz-lab-struktur-data/
 Video ini berisi penjelasan mengenai kode, algoritma yang digunakan, serta demonstrasi hasil eksekusi dari setiap program.
 
 🔗 **Link YouTube:**
-
+https://youtu.be/USuJNHoPnm0?si=vLVwva66YlSAErpm
 
